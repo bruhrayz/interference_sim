@@ -8,6 +8,3 @@
 # Запуск
 pip install -r requirements.txt
 python main.py
-
-# Студент
-Кукурика Владислав Владимирович / ПИ-233 (1)
